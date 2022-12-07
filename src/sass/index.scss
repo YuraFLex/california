@@ -1,0 +1,21 @@
+// Base styles
+@import './base/reset';
+@import './base/body';
+
+//Conponents
+@import './components/section';
+@import './components/container';
+@import './components/section-title';
+
+// Utils
+// @import './utils/animate';
+
+// Layout
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/categories';
+@import './layouts/items';
+@import './layouts/best';
+@import './layouts/ideas';
+@import './layouts/find';
+@import './layouts/footer';
